@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tmediaa_iran_weather\n"
+"POT-Creation-Date: 2013-04-05 12:44-0800\n"
+"PO-Revision-Date: 2013-04-05 12:44-0800\n"
+"Last-Translator: mm <memori2010@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: lang\n"
+
+#: ../tmediaa_iran_weather.php:40 ../tmediaa_iran_weather.php:556
+msgid "Abadan"
+msgstr "آبادان"
+
+#: ../tmediaa_iran_weather.php:41
+msgid "Ab danan"
+msgstr "آبدانان"
+
+#: ../tmediaa_iran_weather.php:42 ../tmediaa_iran_weather.php:567
+msgid "Astara"
+msgstr "آستارا"
+
+#: ../tmediaa_iran_weather.php:43 ../tmediaa_iran_weather.php:563
+msgid "Amol"
+msgstr "آمل"
+
+#: ../tmediaa_iran_weather.php:44 ../tmediaa_iran_weather.php:558
+msgid "Abhar"
+msgstr "ابهر"
+
+#: ../tmediaa_iran_weather.php:45 ../tmediaa_iran_weather.php:564
+msgid "Arak"
+msgstr "اراک"
+
+#: ../tmediaa_iran_weather.php:46 ../tmediaa_iran_weather.php:565
+msgid "Ardabil"
+msgstr "اردبیل"
+
+#: ../tmediaa_iran_weather.php:47 ../tmediaa_iran_weather.php:566
+msgid "Ardakan"
+msgstr "اردکان"
+
+#: ../tmediaa_iran_weather.php:48
+msgid "Orumieh"
+msgstr "ارومیه"
+
+#: ../tmediaa_iran_weather.php:49 ../tmediaa_iran_weather.php:596
+msgid "Eslam abad qarb"
+msgstr "اسلام آباد غرب"
+
+#: ../tmediaa_iran_weather.php:50 ../tmediaa_iran_weather.php:597
+msgid "Eslam shahr"
+msgstr "اسلام شهر"
+
+#: ../tmediaa_iran_weather.php:51 ../tmediaa_iran_weather.php:595
+msgid "Esfarayen"
+msgstr "اسفراین"
+
+#: ../tmediaa_iran_weather.php:52 ../tmediaa_iran_weather.php:594
+msgid "Esfahan"
+msgstr "اصفهان"
+
+#: ../tmediaa_iran_weather.php:53 ../tmediaa_iran_weather.php:593
+msgid "Eqbalieh"
+msgstr "اقبالیه"
+
+#: ../tmediaa_iran_weather.php:54 ../tmediaa_iran_weather.php:562
+msgid "Alvand"
+msgstr "الوند"
+
+#: ../tmediaa_iran_weather.php:55
+msgid "Ali Goodarz"
+msgstr "علی گودرز"
+
+#: ../tmediaa_iran_weather.php:56 ../tmediaa_iran_weather.php:559
+msgid "Ahvaz"
+msgstr "اهواز"
+
+#: ../tmediaa_iran_weather.php:57
+msgid "Iran Shahr"
+msgstr "ایران شهر"
+
+#: ../tmediaa_iran_weather.php:58
+msgid "Ielam"
+msgstr "ایلام"
+
+#: ../tmediaa_iran_weather.php:59 ../tmediaa_iran_weather.php:608
+msgid "Ievan"
+msgstr "ایوان"
+
+#: ../tmediaa_iran_weather.php:60 ../tmediaa_iran_weather.php:568
+msgid "Babol"
+msgstr "بابل"
+
+#: ../tmediaa_iran_weather.php:61 ../tmediaa_iran_weather.php:569
+msgid "Bafq"
+msgstr "بافق"
+
+#: ../tmediaa_iran_weather.php:62 ../tmediaa_iran_weather.php:577
+msgid "Baneh"
+msgstr "بانه"
+
+#: ../tmediaa_iran_weather.php:63 ../tmediaa_iran_weather.php:580
+msgid "Bujnurd"
+msgstr "بجنورد"
+
+#: ../tmediaa_iran_weather.php:64 ../tmediaa_iran_weather.php:579
+msgid "Borazjan"
+msgstr "برازجان"
+
+#: ../tmediaa_iran_weather.php:65 ../tmediaa_iran_weather.php:582
+msgid "Burujerd"
+msgstr "بجنورد"
+
+#: ../tmediaa_iran_weather.php:66 ../tmediaa_iran_weather.php:581
+msgid "Burujen"
+msgstr "بروجن"
+
+#: ../tmediaa_iran_weather.php:67
+msgid "Bandar E Anzali"
+msgstr "بندر انزلی"
+
+#: ../tmediaa_iran_weather.php:68
+msgid "Bandar E Bushehr"
+msgstr "بندر بوشهر"
+
+#: ../tmediaa_iran_weather.php:69
+msgid "Bandar E Torkaman"
+msgstr "بندر ترکمن"
+
+#: ../tmediaa_iran_weather.php:70
+msgid "Bandar Abbas"
+msgstr "بندر عباس"
+
+#: ../tmediaa_iran_weather.php:71
+msgid "Bandar E Genaveh"
+msgstr "بندر گناوه"
+
+#: ../tmediaa_iran_weather.php:72
+msgid "Bandar E Lengeh"
+msgstr "بندر لنگه"
+
+#: ../tmediaa_iran_weather.php:73 ../tmediaa_iran_weather.php:578
+msgid "Birjand"
+msgstr "بیرجند"
+
+#: ../tmediaa_iran_weather.php:74
+msgid "Pars Abad"
+msgstr "پارس آباد"
+
+#: ../tmediaa_iran_weather.php:75 ../tmediaa_iran_weather.php:671
+msgid "Takestan"
+msgstr "تاکستان"
+
+#: ../tmediaa_iran_weather.php:76 ../tmediaa_iran_weather.php:670
+msgid "Tabriz"
+msgstr "تبریز"
+
+#: ../tmediaa_iran_weather.php:77
+msgid "Torbat Heidarieh"
+msgstr "تربت حیدریه"
+
+#: ../tmediaa_iran_weather.php:78 ../tmediaa_iran_weather.php:673
+msgid "Toiserkan"
+msgstr "تویسرکان"
+
+#: ../tmediaa_iran_weather.php:79 ../tmediaa_iran_weather.php:672
+msgid "Tehran"
+msgstr "تهران"
+
+#: ../tmediaa_iran_weather.php:80 ../tmediaa_iran_weather.php:611
+msgid "Jafarieh"
+msgstr "جعفریه"
+
+#: ../tmediaa_iran_weather.php:81 ../tmediaa_iran_weather.php:610
+msgid "Jahrom"
+msgstr "جهرم"
+
+#: ../tmediaa_iran_weather.php:82 ../tmediaa_iran_weather.php:612
+msgid "Jiroft"
+msgstr "جیرفت"
+
+#: ../tmediaa_iran_weather.php:83 ../tmediaa_iran_weather.php:583
+msgid "Chabahar"
+msgstr "چابهار"
+
+#: ../tmediaa_iran_weather.php:84
+msgid "Khoram Abad"
+msgstr "خرم آباد"
+
+#: ../tmediaa_iran_weather.php:85
+msgid "Khoramdareh"
+msgstr "خرم دره"
+
+#: ../tmediaa_iran_weather.php:86 ../tmediaa_iran_weather.php:620
+msgid "Khalkhal"
+msgstr "خلخال"
+
+#: ../tmediaa_iran_weather.php:87 ../tmediaa_iran_weather.php:622
+msgid "Khomein"
+msgstr "خمین"
+
+#: ../tmediaa_iran_weather.php:88
+msgid "Khomeini Shahr"
+msgstr "خمینی شهر"
+
+#: ../tmediaa_iran_weather.php:89
+msgid "Khormoj"
+msgstr "خورموج"
+
+#: ../tmediaa_iran_weather.php:90 ../tmediaa_iran_weather.php:621
+msgid "Khoi"
+msgstr "خوی"
+
+#: ../tmediaa_iran_weather.php:91 ../tmediaa_iran_weather.php:584
+msgid "Damqan"
+msgstr "دامغان"
+
+#: ../tmediaa_iran_weather.php:92
+msgid "Dezful"
+msgstr "دزفول"
+
+#: ../tmediaa_iran_weather.php:93
+msgid "Dehbarez"
+msgstr "دهبارز"
+
+#: ../tmediaa_iran_weather.php:94 ../tmediaa_iran_weather.php:586
+msgid "Dehdasht"
+msgstr "دهدشت"
+
+#: ../tmediaa_iran_weather.php:95 ../tmediaa_iran_weather.php:587
+msgid "Dehloran"
+msgstr "دهلران"
+
+#: ../tmediaa_iran_weather.php:96
+msgid "Dogonbadan"
+msgstr "دوگنبدان"
+
+#: ../tmediaa_iran_weather.php:97 ../tmediaa_iran_weather.php:591
+msgid "Durud"
+msgstr "دورود"
+
+#: ../tmediaa_iran_weather.php:98 ../tmediaa_iran_weather.php:657
+msgid "Rasht"
+msgstr "رشت"
+
+#: ../tmediaa_iran_weather.php:99 ../tmediaa_iran_weather.php:656
+msgid "Rafsanjan"
+msgstr "رفسنجان"
+
+#: ../tmediaa_iran_weather.php:100 ../tmediaa_iran_weather.php:677
+msgid "Zabol"
+msgstr "زابل"
+
+#: ../tmediaa_iran_weather.php:101 ../tmediaa_iran_weather.php:678
+msgid "Zahedan"
+msgstr "زاهدان"
+
+#: ../tmediaa_iran_weather.php:102 ../tmediaa_iran_weather.php:679
+msgid "Zanjan"
+msgstr "زنجان"
+
+#: ../tmediaa_iran_weather.php:103 ../tmediaa_iran_weather.php:661
+msgid "Sari"
+msgstr "ساری"
+
+#: ../tmediaa_iran_weather.php:104
+msgid "saveh"
+msgstr "ساوه"
+
+#: ../tmediaa_iran_weather.php:105 ../tmediaa_iran_weather.php:658
+msgid "Sabzevar"
+msgstr "سبزوار"
+
+#: ../tmediaa_iran_weather.php:106 ../tmediaa_iran_weather.php:660
+msgid "Saqez"
+msgstr "سقز"
+
+#: ../tmediaa_iran_weather.php:107 ../tmediaa_iran_weather.php:663
+msgid "Semnan"
+msgstr "سمنان"
+
+#: ../tmediaa_iran_weather.php:108 ../tmediaa_iran_weather.php:659
+msgid "Sanandaj"
+msgstr "سنندج"
+
+#: ../tmediaa_iran_weather.php:109 ../tmediaa_iran_weather.php:669
+msgid "Sirjan"
+msgstr "سیرجان"
+
+#: ../tmediaa_iran_weather.php:110 ../tmediaa_iran_weather.php:666
+msgid "Shahrud"
+msgstr "شاهرود"
+
+#: ../tmediaa_iran_weather.php:111
+msgid "Shahr E Rei"
+msgstr "شهر ری"
+
+#: ../tmediaa_iran_weather.php:112
+msgid "Shahre Kord"
+msgstr "شهرکرد"
+
+#: ../tmediaa_iran_weather.php:113 ../tmediaa_iran_weather.php:667
+msgid "Shiraz"
+msgstr "شیراز"
+
+#: ../tmediaa_iran_weather.php:114 ../tmediaa_iran_weather.php:668
+msgid "Shirvan"
+msgstr "شیروان"
+
+#: ../tmediaa_iran_weather.php:115
+msgid "Ali Abad Katool"
+msgstr "علی آباد کتول"
+
+#: ../tmediaa_iran_weather.php:116 ../tmediaa_iran_weather.php:599
+msgid "Farsan"
+msgstr "فارسان"
+
+#: ../tmediaa_iran_weather.php:117 ../tmediaa_iran_weather.php:600
+msgid "Ferdos"
+msgstr "فردوس"
+
+#: ../tmediaa_iran_weather.php:118
+msgid "Farokh Shahr"
+msgstr "فرخ شهر"
+
+#: ../tmediaa_iran_weather.php:119
+msgid "Qaem Shahr"
+msgstr "قائم شهر"
+
+#: ../tmediaa_iran_weather.php:120 ../tmediaa_iran_weather.php:651
+msgid "Qaen"
+msgstr "قائن"
+
+#: ../tmediaa_iran_weather.php:121 ../tmediaa_iran_weather.php:653
+msgid "Qazvin"
+msgstr "قزوین"
+
+#: ../tmediaa_iran_weather.php:122 ../tmediaa_iran_weather.php:655
+msgid "Qom"
+msgstr "قم"
+
+#: ../tmediaa_iran_weather.php:123 ../tmediaa_iran_weather.php:652
+msgid "Qanavat"
+msgstr "قنوات"
+
+#: ../tmediaa_iran_weather.php:124
+msgid "Qiedar"
+msgstr "قیدار"
+
+#: ../tmediaa_iran_weather.php:125
+msgid "Kazeroon"
+msgstr "کازرون"
+
+#: ../tmediaa_iran_weather.php:126 ../tmediaa_iran_weather.php:616
+msgid "Kashan"
+msgstr "کاشان"
+
+#: ../tmediaa_iran_weather.php:127 ../tmediaa_iran_weather.php:615
+msgid "Karaj"
+msgstr "کرج"
+
+#: ../tmediaa_iran_weather.php:128 ../tmediaa_iran_weather.php:618
+msgid "Kerman"
+msgstr "کرمان"
+
+#: ../tmediaa_iran_weather.php:129
+msgid "Kerman Shah"
+msgstr "کرمانشاه"
+
+#: ../tmediaa_iran_weather.php:130 ../tmediaa_iran_weather.php:614
+msgid "Kangavar"
+msgstr "کنگاور"
+
+#: ../tmediaa_iran_weather.php:131 ../tmediaa_iran_weather.php:613
+msgid "Kahak"
+msgstr "کهک"
+
+#: ../tmediaa_iran_weather.php:132 ../tmediaa_iran_weather.php:604
+msgid "Gorgan"
+msgstr "گرگان"
+
+#: ../tmediaa_iran_weather.php:133 ../tmediaa_iran_weather.php:602
+msgid "Garmsar"
+msgstr "گرمسار"
+
+#: ../tmediaa_iran_weather.php:134
+msgid "Garmeh Jajarm"
+msgstr "گرمه جاجرم"
+
+#: ../tmediaa_iran_weather.php:135 ../tmediaa_iran_weather.php:603
+msgid "Gonbad"
+msgstr "گنبد"
+
+#: ../tmediaa_iran_weather.php:136 ../tmediaa_iran_weather.php:627
+msgid "Lahijan"
+msgstr "لاهیجان"
+
+#: ../tmediaa_iran_weather.php:137 ../tmediaa_iran_weather.php:628
+msgid "Likak"
+msgstr "لیکک"
+
+#: ../tmediaa_iran_weather.php:138 ../tmediaa_iran_weather.php:630
+msgid "Mahalat"
+msgstr "محلات"
+
+#: ../tmediaa_iran_weather.php:139
+msgid "Mohammad Shahr"
+msgstr "محمد شهر"
+
+#: ../tmediaa_iran_weather.php:140 ../tmediaa_iran_weather.php:633
+msgid "Maraqeh"
+msgstr "مراغه"
+
+#: ../tmediaa_iran_weather.php:141 ../tmediaa_iran_weather.php:632
+msgid "Marand"
+msgstr "مرند"
+
+#: ../tmediaa_iran_weather.php:142
+msgid "Marv Dasht"
+msgstr "مرودشت"
+
+#: ../tmediaa_iran_weather.php:143 ../tmediaa_iran_weather.php:634
+msgid "Marivan"
+msgstr "مریوان"
+
+#: ../tmediaa_iran_weather.php:144
+msgid "MeshginShahr"
+msgstr "مشگین شهر"
+
+#: ../tmediaa_iran_weather.php:145 ../tmediaa_iran_weather.php:636
+msgid "Mashhad"
+msgstr "مشهد"
+
+#: ../tmediaa_iran_weather.php:146 ../tmediaa_iran_weather.php:629
+msgid "Malayer"
+msgstr "ملایر"
+
+#: ../tmediaa_iran_weather.php:147 ../tmediaa_iran_weather.php:631
+msgid "Mahabad"
+msgstr "مهاباد"
+
+#: ../tmediaa_iran_weather.php:148
+msgid "Miando Ab"
+msgstr "میاندوآب"
+
+#: ../tmediaa_iran_weather.php:149 ../tmediaa_iran_weather.php:640
+msgid "Mianeh"
+msgstr "میانه"
+
+#: ../tmediaa_iran_weather.php:150 ../tmediaa_iran_weather.php:637
+msgid "Meibod"
+msgstr "میبد"
+
+#: ../tmediaa_iran_weather.php:151 ../tmediaa_iran_weather.php:641
+msgid "Minab"
+msgstr "میناب"
+
+#: ../tmediaa_iran_weather.php:152 ../tmediaa_iran_weather.php:644
+msgid "Najaf Abad"
+msgstr "نجف آباد"
+
+#: ../tmediaa_iran_weather.php:153 ../tmediaa_iran_weather.php:645
+msgid "Nazar Abad"
+msgstr "نظر آباد"
+
+#: ../tmediaa_iran_weather.php:154 ../tmediaa_iran_weather.php:643
+msgid "Nahavand"
+msgstr "نهاوند"
+
+#: ../tmediaa_iran_weather.php:155 ../tmediaa_iran_weather.php:646
+msgid "Nehbandan"
+msgstr "نهبندان"
+
+#: ../tmediaa_iran_weather.php:156 ../tmediaa_iran_weather.php:647
+msgid "Neishabur"
+msgstr "نیشابور"
+
+#: ../tmediaa_iran_weather.php:157 ../tmediaa_iran_weather.php:606
+msgid "Harsin"
+msgstr "هرسین"
+
+#: ../tmediaa_iran_weather.php:158
+msgid "Hasht Gerd"
+msgstr "هشتگرد"
+
+#: ../tmediaa_iran_weather.php:159
+msgid "Hamedan"
+msgstr "همدان"
+
+#: ../tmediaa_iran_weather.php:160 ../tmediaa_iran_weather.php:675
+msgid "Yasuj"
+msgstr "یاسوج"
+
+#: ../tmediaa_iran_weather.php:161 ../tmediaa_iran_weather.php:676
+msgid "Yazd"
+msgstr "یزد"
+
+#: ../tmediaa_iran_weather.php:168
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+#: ../tmediaa_iran_weather.php:208
+msgid "classic"
+msgstr "کلاسیک"
+
+#: ../tmediaa_iran_weather.php:209
+msgid "geo"
+msgstr "خودکار"
+
+#: ../tmediaa_iran_weather.php:239
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: ../tmediaa_iran_weather.php:240
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: ../tmediaa_iran_weather.php:241
+msgid "Tuesday"
+msgstr "سهشنبه"
+
+#: ../tmediaa_iran_weather.php:242
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: ../tmediaa_iran_weather.php:243
+msgid "Thursday"
+msgstr "پنجشنبه"
+
+#: ../tmediaa_iran_weather.php:244
+msgid "Friday"
+msgstr "جمعه"
+
+#: ../tmediaa_iran_weather.php:245
+msgid "Saturday"
+msgstr "شنبه"
+
+#: ../tmediaa_iran_weather.php:384
+msgid "Failed to connect to server!"
+msgstr "خطا:ارتباط با سرور برقرار نشد."
+
+#: ../tmediaa_iran_weather.php:449
+msgid "Your browser does not support Geolocation!"
+msgstr "مرورگر شما از شناسایی خودکار پشتیبانی نمی کند."
+
+#: ../tmediaa_iran_weather.php:480
+msgid "Failed to connect to server"
+msgstr "خطا:ارتباط با سرور برقرار نشد."
+
+#: ../tmediaa_iran_weather.php:493
+msgid "A timeout occured! Please try again!"
+msgstr "دوباره امتحان کنید!"
+
+#: ../tmediaa_iran_weather.php:496
+msgid "We can\\\"t detect your location. Sorry!"
+msgstr "با عرض پوزش: موفق به شناسایی مکان شما نشدیم."
+
+#: ../tmediaa_iran_weather.php:499
+msgid "Please allow geolocation access for this to work."
+msgstr "لطفا اجازه شناسایی خودکار را از طریق مرورگر بدهید."
+
+#: ../tmediaa_iran_weather.php:502
+msgid "An unknown error occured!"
+msgstr "خطا اتفاق افتاد."
+
+#: ../tmediaa_iran_weather.php:527
+msgid "This is  weather widget via 3 option for choose your location"
+msgstr ""
+"پلاگین هوا شناسی تی مدیا با 3 انتخاب برای یافتن مکان مورد نظر هواشناسی."
+
+#: ../tmediaa_iran_weather.php:528
+msgid "tmediaa weather plugin"
+msgstr "پلاگین هواشناسی تی مدیا"
+
+#: ../tmediaa_iran_weather.php:537
+msgid "choose the palce to find weather data:"
+msgstr "انتخاب منطقه:"
+
+#: ../tmediaa_iran_weather.php:538
+msgid "define a location"
+msgstr "مکان مشخص"
+
+#: ../tmediaa_iran_weather.php:539
+msgid "geolocation"
+msgstr "شناسایی خودکار"
+
+#: ../tmediaa_iran_weather.php:540
+msgid "use both of them"
+msgstr "هر دو"
+
+#: ../tmediaa_iran_weather.php:545
+msgid "define wich days to forecast"
+msgstr "انتخاب روز ها برای پیش بینی هوا:"
+
+#: ../tmediaa_iran_weather.php:546
+msgid "current weather"
+msgstr "وضعیت حال حاضر"
+
+#: ../tmediaa_iran_weather.php:547
+msgid "current weather and 4 days after"
+msgstr "وضعیت 5 روز"
+
+#: ../tmediaa_iran_weather.php:551
+msgid "choose your location from the menu:"
+msgstr "انتخاب منطقه از منو:"
+
+#: ../tmediaa_iran_weather.php:557
+msgid "Abdanan"
+msgstr "آبادان"
+
+#: ../tmediaa_iran_weather.php:560
+msgid "Ali abad katool"
+msgstr "علی آباد کتول"
+
+#: ../tmediaa_iran_weather.php:561
+msgid "Aligoodarz"
+msgstr "علی گودرز"
+
+#: ../tmediaa_iran_weather.php:571
+msgid "Bandar e abas"
+msgstr "بندر عباس"
+
+#: ../tmediaa_iran_weather.php:572
+msgid "Bandar e anzali"
+msgstr "بندر انزلی"
+
+#: ../tmediaa_iran_weather.php:573
+msgid "Bandar e bushehr"
+msgstr "بندر بوشهر"
+
+#: ../tmediaa_iran_weather.php:574
+msgid "Bandar e genaveh"
+msgstr "بندر گناوه"
+
+#: ../tmediaa_iran_weather.php:575
+msgid "Bandar e lengeh"
+msgstr "بندر لنگه"
+
+#: ../tmediaa_iran_weather.php:576
+msgid "Bandar e torkaman"
+msgstr "بندر ترکمن"
+
+#: ../tmediaa_iran_weather.php:585
+msgid "Dehbar"
+msgstr "دهبار"
+
+#: ../tmediaa_iran_weather.php:588
+msgid "Dezfool"
+msgstr "دزفول"
+
+#: ../tmediaa_iran_weather.php:590
+msgid "Do gonbadan"
+msgstr "دوگنبدان"
+
+#: ../tmediaa_iran_weather.php:592
+msgid "Eilam"
+msgstr "ایلام"
+
+#: ../tmediaa_iran_weather.php:598
+msgid "Farokh shahr"
+msgstr "فرخ شهر"
+
+#: ../tmediaa_iran_weather.php:601
+msgid "Garme jajarm"
+msgstr "گرمه جاجرم"
+
+#: ../tmediaa_iran_weather.php:605
+msgid "Hamadan"
+msgstr "همدان"
+
+#: ../tmediaa_iran_weather.php:607
+msgid "Hashtgerd"
+msgstr "هشتگرد"
+
+#: ../tmediaa_iran_weather.php:609
+msgid "Iran shahr"
+msgstr "ایران شهر"
+
+#: ../tmediaa_iran_weather.php:617
+msgid "Kazeron"
+msgstr "کازرون"
+
+#: ../tmediaa_iran_weather.php:619
+msgid "Kermanshah"
+msgstr "کرمانشاه"
+
+#: ../tmediaa_iran_weather.php:623
+msgid "Khomeini shahr"
+msgstr "خمینی شهر"
+
+#: ../tmediaa_iran_weather.php:624
+msgid "Khoram abad"
+msgstr "خرم آباد"
+
+#: ../tmediaa_iran_weather.php:625
+msgid "Khoram Dareh"
+msgstr "خرم دره"
+
+#: ../tmediaa_iran_weather.php:626
+msgid "Khurmoj"
+msgstr "خورموج"
+
+#: ../tmediaa_iran_weather.php:635
+msgid "Marv dasht"
+msgstr "مرودشت"
+
+#: ../tmediaa_iran_weather.php:638
+msgid "Meshgin shahr"
+msgstr "مشگین شهر"
+
+#: ../tmediaa_iran_weather.php:639
+msgid "Miando ab"
+msgstr "میاندوآب"
+
+#: ../tmediaa_iran_weather.php:642
+msgid "Mohamad shahr"
+msgstr "محمد شهر"
+
+#: ../tmediaa_iran_weather.php:648
+msgid "Orumie"
+msgstr "ارومیه"
+
+#: ../tmediaa_iran_weather.php:649
+msgid "Pars abad"
+msgstr "پارس آباد"
+
+#: ../tmediaa_iran_weather.php:650
+msgid "Qaem shahr"
+msgstr "قائم شهر"
+
+#: ../tmediaa_iran_weather.php:654
+msgid "Qidar"
+msgstr "قیدار"
+
+#: ../tmediaa_iran_weather.php:662
+msgid "Saveh"
+msgstr "ساوه"
+
+#: ../tmediaa_iran_weather.php:664
+msgid "Shahre kord"
+msgstr "شهرکرد"
+
+#: ../tmediaa_iran_weather.php:665
+msgid "Shahr e rei"
+msgstr "شهرری"
+
+#: ../tmediaa_iran_weather.php:674
+msgid "Torbat heidarie"
+msgstr "تربت حیدریه"
+
+#: ../tmediaa_iran_weather.php:684
+msgid "define prefered location"
+msgstr "تعریف منطقه مورد نظر:"
+
+#: ../tmediaa_iran_weather.php:692
+msgid "location name"
+msgstr "نام مکان"
+
+#: ../tmediaa_iran_weather.php:698
+msgid "time to refresh the data "
+msgstr "مدت زمان به روز رسانی اطلاعات:"
+
+#: ../tmediaa_iran_weather.php:701
+msgid "minute 5"
+msgstr "5 دقیقه"
+
+#: ../tmediaa_iran_weather.php:702
+msgid "minute 10"
+msgstr "10 دقیقه"
+
+#: ../tmediaa_iran_weather.php:703
+msgid "minute30"
+msgstr "30 دقیقه"
+
+#: ../tmediaa_iran_weather.php:704
+msgid "1 hour"
+msgstr "1 ساعت"
+
+#: ../tmediaa_iran_weather.php:705
+msgid "2 hour"
+msgstr "2 ساعت"
+
+#: ../tmediaa_iran_weather.php:722
+msgid "loading..."
+msgstr "در حال بارگذاری..."
