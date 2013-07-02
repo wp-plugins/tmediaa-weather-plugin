@@ -173,7 +173,7 @@
 #temper h3:before { top: -1px; }
 #temper h3:after  { top: 0px; left: 1px }
 #bot{
-	height: 97px;
+	display:inline-block;
 	
 	-webkit-border-radius: 0 0 10px 10px/0 0 8px 8px;
 	-moz-border-radius: 0 0 10px 10px/0 0 8px 8px;
