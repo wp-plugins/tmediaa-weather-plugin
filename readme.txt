@@ -30,3 +30,5 @@ shows current weather and forecasts Iran cities with automatic detect location b
 
 = 1.0 =
 * Start the project...
+= 1.1 =
+* solve a interface problem
